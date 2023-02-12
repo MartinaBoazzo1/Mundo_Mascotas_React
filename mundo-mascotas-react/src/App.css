@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.Contenedor{
+  display: flex;
+  flex-direction: column;
+}
+.Hijo{
+  background-color: #61dafb;
+  padding: 2cm;
+}
