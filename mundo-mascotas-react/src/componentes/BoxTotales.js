@@ -10,7 +10,7 @@ function BoxTotales({count}) {
         <Card.Body>
           <Card.Title>Usuarios</Card.Title>
           <Card.Text>
-            En Mundo Mascotas contamos con {count} usuarios. 
+            En Mundo Mascotas contamos con 12 usuarios. 
           </Card.Text>
         </Card.Body>
       </Card>
@@ -19,7 +19,7 @@ function BoxTotales({count}) {
         <Card.Body>
           <Card.Title>Productos</Card.Title>
           <Card.Text>
-          En Mundo Mascotas contamos con .... productos. 
+          En Mundo Mascotas contamos con 24 productos. 
           </Card.Text>
         </Card.Body>
       </Card>
@@ -28,7 +28,7 @@ function BoxTotales({count}) {
         <Card.Body>
           <Card.Title>Categorias</Card.Title>
           <Card.Text>
-          En Mundo Mascotas contamos con .... categorias. 
+          En Mundo Mascotas contamos con 5 categorias. 
           </Card.Text>
         </Card.Body>
       </Card>

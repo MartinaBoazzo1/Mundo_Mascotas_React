@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #4b86ab;
 }
 
 @keyframes App-logo-spin {
@@ -41,6 +41,19 @@
   flex-direction: column;
 }
 .Hijo{
-  background-color: #61dafb;
-  padding: 2cm;
+  padding:1%;
+}
+article{
+  display: flex;
+  flex-direction: column;
+}
+.usuarios{
+  display: flex;
+  flex-wrap: wrap;
+}
+p.py-3{
+  background-color: #4b86ab;
+}
+.light{
+  background-color: #4b86ab;
 }
